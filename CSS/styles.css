@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+}
+
+nav {
+    background-color: darkgrey;
+    height: 50px;
+    border: 2px solid rgb(0, 0, 226);
+    text-align: center;
+}
+
+section {
+    background-color: slategrey;
+    border: 2px solid rgb(209, 25, 194);
+    text-align: center;
+}
+
+.row {
+    min-height: 50vh;
+}
+
+footer  {
+    background-color: rgb(91, 153, 153);
+    height: 60px;
+    border: 2px solid purple;
+    text-align: center;
+}
